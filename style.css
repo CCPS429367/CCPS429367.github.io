@@ -1,1 +1,33 @@
+p {
+  background-color: #B2AC88
+  color: lavender;
+}
 
+ul {
+  hight: 100px;
+  width: 50xp
+}
+
+ol {
+  font-family: "Times New Romen";
+  font-weight: bold;
+}
+
+h1 {
+  color: #E6E6FA
+}
+
+header {
+  display: flex;
+  align-items: center;
+  padding: .5rem 3.75rem
+  background-color: Grey;
+  }
+
+body {
+  font-family: "URW Chancery L", cursive;
+  footer {
+    background-color: #333;
+  color: #E6E6FA;
+  padding: 30xp 0;
+  }
